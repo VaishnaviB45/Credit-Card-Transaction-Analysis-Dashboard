@@ -18,3 +18,7 @@ Bar chart, Donut chart, Funnel chart, Card visuals, and Slicers for interactive 
 
 6.Features & Dashboard:
 KPIs for revenue and transactions, donut and bar charts for customer analysis, filters for card type and limit, and a summary view for quick insights.
+
+7.Screenshots / Demos
+First page of dashboard - https://github.com/VaishnaviB45/Credit-Card-Transaction-Analysis-Dashboard/blob/main/Credit%20Card%20Transaction%20Analysis%20Dashboard%20page%201.png
+Second page of dashboard - 
