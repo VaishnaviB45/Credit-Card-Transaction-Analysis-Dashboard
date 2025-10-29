@@ -21,4 +21,4 @@ KPIs for revenue and transactions, donut and bar charts for customer analysis, f
 
 7.Screenshots / Demos
 First page of dashboard - https://github.com/VaishnaviB45/Credit-Card-Transaction-Analysis-Dashboard/blob/main/Credit%20Card%20Transaction%20Analysis%20Dashboard%20page%201.png
-Second page of dashboard - 
+Second page of dashboard - https://github.com/VaishnaviB45/Credit-Card-Transaction-Analysis-Dashboard/blob/main/Credit%20Card%20Transaction%20Analysis%20Dashboard%20page%202.png
